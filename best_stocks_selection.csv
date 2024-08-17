@@ -1,0 +1,6 @@
+Ticker,Best Score,Best Parameters
+TSLA,2.912328494332611,"{'momentum_period': 7, 'rsi_overbought': 70, 'rsi_oversold': 30, 'rsi_period': 10, 'sma_long': 161, 'sma_short': 50, 'stop_loss': -0.01, 'take_profit': 0.05}"
+AAPL,2.330675770681177,"{'momentum_period': 20, 'rsi_overbought': 80, 'rsi_oversold': 20, 'rsi_period': 10, 'sma_long': 158, 'sma_short': 50, 'stop_loss': -0.01, 'take_profit': 0.05}"
+GOOGL,1.7010276420307224,"{'momentum_period': 5, 'rsi_overbought': 70, 'rsi_oversold': 30, 'rsi_period': 10, 'sma_long': 200, 'sma_short': 10, 'stop_loss': -0.010000000000000002, 'take_profit': 0.05}"
+AMZN,1.681863457977223,"{'momentum_period': 5, 'rsi_overbought': 79, 'rsi_oversold': 25, 'rsi_period': 17, 'sma_long': 188, 'sma_short': 42, 'stop_loss': -0.01, 'take_profit': 0.05}"
+MSFT,1.4045245123667327,"{'momentum_period': 20, 'rsi_overbought': 70, 'rsi_oversold': 30, 'rsi_period': 10, 'sma_long': 200, 'sma_short': 10, 'stop_loss': -0.01, 'take_profit': 0.05}"
